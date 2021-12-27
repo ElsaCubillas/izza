@@ -121,13 +121,13 @@ a:hover{
 
 .top-cloud {
   position: absolute;
-  right: 15%;
+  right: 10%;
   top: 10%;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 15%;
+  left: 10%;
   top: 40%;
 }
 
